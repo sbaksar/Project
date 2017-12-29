@@ -78,7 +78,7 @@ Import-Package: !org.apache.avalon.framework.*,\
   *
 
 
-
+import testwork
 
 
 
